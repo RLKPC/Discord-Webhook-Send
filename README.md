@@ -1,9 +1,7 @@
 # Discord Webhook Send creator
 
-このWebhook Send creatorはDiscordのWebhookにメッセージを送信するものでございます。
-不具合等があれば Discord「るな#9755」までお申し付けください。
+このWebhook Send creatorはDiscordのWebhookにメッセージを送信できます。
 
-現在バージョン: v1.0.2
 
 
 # Webhook
@@ -31,12 +29,3 @@ Webhook アイコン URLの作成方法：
 「New post」＞「Choose Photo/Video」＞「アイコンにしたい写真を選択」＞「Grab Link」＞「Copy Link」をクリックします。
 
 アイコン URL をコピーしたら、 「 CTRL 」+「 V 」キーで アイコン URL を貼り付けできます。
-
-# ライセンス
-
-[MITライセンス](LICENCE)  
-
-このソフトウェアを無制限で使用することができます  
-商用、非商用、改変、再配布なども許可されます  
-ただし、著作権表示と英語のライセンス全文を目に留まる場所に配置してください  
-このソフトウェアの使用によって発生したいかなる損害にも責任を負いません 
